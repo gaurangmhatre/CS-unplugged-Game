@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Answer
+comment0.text=\n\ Write\ a\ description\ of\ class\ Answer\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=text\ correct
+comment1.target=Answer(java.lang.String,\ boolean)
+comment1.text=\n\ Create\ a\ new\ answer.\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\n\ When\ added\ to\ the\ world,\ draw.\n
+comment3.params=colour
+comment3.target=void\ draw(java.awt.Color)
+comment3.text=\n\ Draw\ the\ answer\ to\ screen.\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Highlight\ when\ hovered\ over,\ and\ tell\ QuizWorld\ when\n\ we've\ been\ clicked\ on\ along\ with\ whether\ we're\ right\n\ or\ wrong.\n
+numComments=5
